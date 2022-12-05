@@ -20,4 +20,4 @@ En la carpeta Análisis/reporte se encuentran los insights y resultados del entr
 <!-- Contact -->
 ## :handshake: Contacto
 
-Luis Varela - [@twitter_Lvacs1](https://twitter.com/Lvacs1) - [DataDex](https://www.tiktok.com/@datadex)
+Luis Varela - [DataDex](https://www.tiktok.com/@datadex)
