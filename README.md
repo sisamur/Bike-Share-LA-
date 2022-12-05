@@ -1,4 +1,4 @@
-# Bike Share LA Analisis y modelado por Luis Varela
+# Bike Share LA Analisis y modelado por (Luis Varela)
 
 En el siguiente repositorio se encuentran los datos y los notebooks que se usaron para crear el proyecto 
 
@@ -15,3 +15,10 @@ https://www.linkedin.com/in/luisvacs/
   <a >
     <img src="[https://img.shields.io/github/stars/Louis3797/awesome-readme-template](https://cdn.vox-cdn.com/thumbor/wfqju87_tWu3voa0spR4-4H8XAo=/0x0:5661x4414/1200x800/filters:focal(2379x1755:3283x2659)/cdn.vox-cdn.com/uploads/chorus_image/image/63138975/shutterstock_734029624.0.jpg)" alt="stars" />
   </a>
+
+
+
+<!-- Contact -->
+## :handshake: Contacto
+
+Your Name - [@twitter_handle](https://www.linkedin.com/in/luisvacs/) - email@email_client.com
