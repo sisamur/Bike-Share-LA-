@@ -16,9 +16,14 @@ https://www.linkedin.com/in/luisvacs/
     <img src="[https://img.shields.io/github/stars/Louis3797/awesome-readme-template](https://cdn.vox-cdn.com/thumbor/wfqju87_tWu3voa0spR4-4H8XAo=/0x0:5661x4414/1200x800/filters:focal(2379x1755:3283x2659)/cdn.vox-cdn.com/uploads/chorus_image/image/63138975/shutterstock_734029624.0.jpg)" alt="stars" />
   </a>
 
+En este análisis se hace uso de datos de kaggle para comprender como funciona el sistema compartido de bicicletas de los angeles.
+
+Dentro de la carpeta Analisis/codigo se encuentra el notebook correspondiente donde se realizo el entrenamiento de un modelo y un EDA.
+
+En la carpeta Análisis/reporte se encuentran los insights y resultados del entrenamiento asi como el resultado obtenido en la evaluación de kaggle.
 
 
 <!-- Contact -->
 ## :handshake: Contacto
 
-Your Name - [@twitter_handle](https://www.linkedin.com/in/luisvacs/) - email@email_client.com
+Luis Varela - [@twitter_Lvacs1](https://twitter.com/Lvacs1) - [DataDex](https://www.tiktok.com/@datadex)
