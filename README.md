@@ -11,3 +11,7 @@ https://www.linkedin.com/in/luisvacs/
 <div align="center"> 
   <img src="[https://placehold.co/600x400?text=Your+Screenshot+here](https://cdn.vox-cdn.com/thumbor/wfqju87_tWu3voa0spR4-4H8XAo=/0x0:5661x4414/1200x800/filters:focal(2379x1755:3283x2659)/cdn.vox-cdn.com/uploads/chorus_image/image/63138975/shutterstock_734029624.0.jpg)" alt="screenshot" />
 </div>
+
+  <a >
+    <img src="[https://img.shields.io/github/stars/Louis3797/awesome-readme-template](https://cdn.vox-cdn.com/thumbor/wfqju87_tWu3voa0spR4-4H8XAo=/0x0:5661x4414/1200x800/filters:focal(2379x1755:3283x2659)/cdn.vox-cdn.com/uploads/chorus_image/image/63138975/shutterstock_734029624.0.jpg)" alt="stars" />
+  </a>
